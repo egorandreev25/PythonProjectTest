@@ -1,1 +1,1 @@
-"Hello git"
+"Hello git, we are on a branch"
